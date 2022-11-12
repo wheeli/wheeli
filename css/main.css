@@ -1,0 +1,23 @@
+
+h2 {
+    font-size: 27px;
+    font-weight: 900;
+    color: #75FAA6;
+    padding-top: 130px;
+    position: absolute;
+    left: 15%;
+}
+
+h3 {
+    font-size: 27px;
+    font-weight: 900;
+    color: #75FAA6;
+    position: absolute;
+    left: 15%;
+}
+
+.realmain {
+    width: 100%;
+    height: 1200px;
+    background-image: url("../img/main.gif");
+}
