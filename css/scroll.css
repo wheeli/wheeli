@@ -1,0 +1,15 @@
+/* 스크롤바 가로 사이즈 */
+::-webkit-scrollbar {
+    width: 18px;
+}
+
+/* 스크롤바 막대기 */
+::-webkit-scrollbar-thumb {
+    border-radius: 40px;
+    background-color: #56EE8E;
+}
+
+/* 스크롤바 백그라운드 */
+::-webkit-scrollbar-track {
+    background-color: #2D3438;
+}
